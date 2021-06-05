@@ -25,12 +25,15 @@ A collection of resources on AI in the beauty and cosmetics industry.
 ## <span id="head2"> *2.Quantitative Evaluation Metrics* </span>
  
 ## <span id="head3"> *3.Datasets* </span>
- 
+(Coming soon.)
+
 ## <span id="head4"> *4.Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span>
 
 * <span id="head-2021"> **2021**  </span>
+    * (CVPR 2021) [Makeup Transfer] **Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer**, Thao Nguyen et al. [[Paper](https://arxiv.org/pdf/2104.01867.pdf)]  [[Code](https://github.com/VinAIResearch/CPM)] 
+    * (IJCAI 2021) [Makeup Generation] **Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition**, Bangjie Yin et al. [[Paper](https://arxiv.org/pdf/2105.03162.pdf)]
 
 * <span id="head-2020"> **2020**  </span>
 
