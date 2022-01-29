@@ -33,19 +33,21 @@ A collection of resources on AI in the beauty and cosmetics industry.
 * <span id="head-Survey"> **Survey**  </span>
 
 * <span id="head-2022"> **2022**  </span>
-    *  (AAAI 2022) [Makeup Transfer & Removal] **SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal**, Zhaoyang Sun et al. [[Paper](https://arxiv.org/abs/2112.03631)]  [[Code](https://github.com/Snowfallingplum/SSAT)] 
+    *  (AAAI 2022) [💬Makeup Transfer & Removal] **SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal**, Zhaoyang Sun et al. [[Paper](https://arxiv.org/abs/2112.03631)]  [[Code](https://github.com/Snowfallingplum/SSAT)] 
 
 
 * <span id="head-2021"> **2021**  </span>
-    *  (CVPR 2021) [Makeup Transfer] **Spatially-invariant Style-codes Controlled Makeup Transfer**, Han Deng et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Spatially-Invariant_Style-Codes_Controlled_Makeup_Transfer_CVPR_2021_paper.pdf)]  [[Code](https://github.com/makeuptransfer/SCGAN)] 
-    * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) [Makeup Transfer for video] **Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example**, Robin Kips et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Kips_Deep_Graphics_Encoder_for_Real-Time_Video_Makeup_Synthesis_From_Example_CVPRW_2021_paper.pdf)] 
-    * (CVPR 2021) [Makeup Transfer] **Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer**, Thao Nguyen et al. [[Paper](https://arxiv.org/pdf/2104.01867.pdf)]  [[Code](https://github.com/VinAIResearch/CPM)] 
-    * (IJCAI 2021) [Makeup Generation] **Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition**, Bangjie Yin et al. [[Paper](https://arxiv.org/pdf/2105.03162.pdf)]
+    *  (CVPR 2021) [💬Makeup Transfer] **Spatially-invariant Style-codes Controlled Makeup Transfer**, Han Deng et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Spatially-Invariant_Style-Codes_Controlled_Makeup_Transfer_CVPR_2021_paper.pdf)]  [[Code](https://github.com/makeuptransfer/SCGAN)] 
+    * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) [💬Makeup Transfer for video] **Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example**, Robin Kips et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Kips_Deep_Graphics_Encoder_for_Real-Time_Video_Makeup_Synthesis_From_Example_CVPRW_2021_paper.pdf)] 
+    * (CVPR 2021) [💬Makeup Transfer] **Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer**, Thao Nguyen et al. [[Paper](https://arxiv.org/pdf/2104.01867.pdf)]  [[Code](https://github.com/VinAIResearch/CPM)] 
+    * (IJCAI 2021) [💬Makeup Generation] **Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition**, Bangjie Yin et al. [[Paper](https://arxiv.org/pdf/2105.03162.pdf)]
 
 * <span id="head-2020"> **2020**  </span>
+    *  (CVPR 2020) [💬Makeup Transfer] **PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer**, Wentao Jiang et al. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_PSGAN_Pose_and_Expression_Robust_Spatial-Aware_GAN_for_Customizable_Makeup_CVPR_2020_paper.pdf)]  [[Code](https://github.com/wtjiang98/PSGAN)] 
+
 
 * <span id="head-2019"> **2019**  </span>
-    * (arXiv preprint 2019) [Makeup Transfer] **Disentangled Makeup Transfer with Generative Adversarial Network**, Honglun Zhang et al. [[Paper](https://arxiv.org/pdf/1907.01144.pdf)] [[Code](https://github.com/Honlan/DMT)] 
+    * (arXiv preprint 2019) [💬Makeup Transfer] **Disentangled Makeup Transfer with Generative Adversarial Network**, Honglun Zhang et al. [[Paper](https://arxiv.org/pdf/1907.01144.pdf)] [[Code](https://github.com/Honlan/DMT)] 
 * <span id="head-2018"> **2018**  </span>
 
 ## <span id="head5"> *Contact Me* </span>
