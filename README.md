@@ -33,6 +33,7 @@ A collection of resources on AI in the beauty and cosmetics industry.
 * <span id="head-Survey"> **Survey**  </span>
 
 * <span id="head-2022"> **2022**  </span>
+    *  (CVPR 2022) [💬Makeup Transfer & Protecting Facial Privacy] **Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer**, Shengshan Hu et al. [[Paper](https://arxiv.org/abs/2203.03121)]
     *  (AAAI 2022) [💬Makeup Transfer & Removal] **SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal**, Zhaoyang Sun et al. [[Paper](https://arxiv.org/abs/2112.03631)]  [[Code](https://github.com/Snowfallingplum/SSAT)] 
 
 
