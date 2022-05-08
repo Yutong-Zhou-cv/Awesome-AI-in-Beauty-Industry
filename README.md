@@ -45,6 +45,7 @@ A collection of resources on AI in the beauty and cosmetics industry.
     * (IJCAI 2021) [💬Makeup Generation] **Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition**, Bangjie Yin et al. [[Paper](https://arxiv.org/pdf/2105.03162.pdf)]
 
 * <span id="head-2020"> **2020**  </span>
+    *  (IJCAI 2020) [💬Makeup Transfer] **Real-World Automatic Makeup via Identity Preservation Makeup Net**, Zhikun Huang et al. [[Paper](https://www.ijcai.org/proceedings/2020/91)]  [[Code](https://github.com/huangzhikun1995/IPM-Net)] 
     *  (CVPR 2020) [💬Makeup Transfer] **PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer**, Wentao Jiang et al. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_PSGAN_Pose_and_Expression_Robust_Spatial-Aware_GAN_for_Customizable_Makeup_CVPR_2020_paper.pdf)]  [[Code](https://github.com/wtjiang98/PSGAN)] 
 
 
