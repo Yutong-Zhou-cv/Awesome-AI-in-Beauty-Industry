@@ -33,6 +33,7 @@ A collection of resources on AI in the beauty and cosmetics industry.
 * <span id="head-Survey"> **Survey**  </span>
 
 * <span id="head-2022"> **2022**  </span>
+    *  (Knowledge-Based Systems) [💬Makeup Transfer] **TSEV-GAN: Generative Adversarial Networks with Target-aware Style Encoding and Verification for facial makeup transfer**, Zhen Xu et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705122010516)]
     *  (ECCV 2022) [💬Hairstyle Transfer] **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**, Taewoo Kim et al. [[Paper](https://arxiv.org/abs/2208.07765)]  [[Code](https://github.com/Taeu/Style-Your-Hair)] 
     *  (ECCV 2022) [💬Makeup Transfer] **EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**, Chenyu Yang et al. [[Paper](https://arxiv.org/abs/2207.09840)]  [[Code](https://github.com/chenyu-yang-2000/elegant)] 
     *  (CVPR 2022) [💬Makeup Transfer & Protecting Facial Privacy] **Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer**, Shengshan Hu et al. [[Paper](https://arxiv.org/abs/2203.03121)]
