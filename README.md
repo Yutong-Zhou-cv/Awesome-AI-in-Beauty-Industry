@@ -33,9 +33,11 @@ A collection of resources on AI in the beauty and cosmetics industry.
 * <span id="head-Survey"> **Survey**  </span>
 
 * <span id="head-2022"> **2022**  </span>
+
     *  (Knowledge-Based Systems) [💬Makeup Transfer] **TSEV-GAN: Generative Adversarial Networks with Target-aware Style Encoding and Verification for facial makeup transfer**, Zhen Xu et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705122010516)]
     *  (ECCV 2022) [💬Hairstyle Transfer] **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**, Taewoo Kim et al. [[Paper](https://arxiv.org/abs/2208.07765)]  [[Code](https://github.com/Taeu/Style-Your-Hair)] 
     *  (ECCV 2022) [💬Makeup Transfer] **EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**, Chenyu Yang et al. [[Paper](https://arxiv.org/abs/2207.09840)]  [[Code](https://github.com/chenyu-yang-2000/elegant)] 
+    *  (CVPR 2022) [💬Retouching] **ABPN: Adaptive Blend Pyramid Network for Real-Time Local Retouching of Ultra High-Resolution Photo**, Biwen Lei et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lei_ABPN_Adaptive_Blend_Pyramid_Network_for_Real-Time_Local_Retouching_of_CVPR_2022_paper.pdf)]  [[Models](https://www.modelscope.cn/models/damo/cv_unet_skin-retouching/summary)] 
     *  (CVPR 2022) [💬Makeup Transfer & Protecting Facial Privacy] **Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer**, Shengshan Hu et al. [[Paper](https://arxiv.org/abs/2203.03121)]
     *  (AAAI 2022) [💬Makeup Transfer & Removal] **SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal**, Zhaoyang Sun et al. [[Paper](https://arxiv.org/abs/2112.03631)]  [[Code](https://github.com/Snowfallingplum/SSAT)] 
 
