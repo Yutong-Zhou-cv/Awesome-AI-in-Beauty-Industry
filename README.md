@@ -13,6 +13,7 @@ A collection of resources on AI in the beauty and cosmetics industry.
 
 * - [ ] [4. Paper With Code](#head4)
   * - [ ] [Survey](#head-Survey)
+  * - [ ] [2023](#head-2023)
   * - [ ] [2022](#head-2022)
   * - [ ] [2021](#head-2021)
   * - [ ] [2020](#head-2020)
@@ -32,8 +33,11 @@ A collection of resources on AI in the beauty and cosmetics industry.
 
 * <span id="head-Survey"> **Survey**  </span>
 
-* <span id="head-2022"> **2022**  </span>
+* <span id="head-2023"> **2023**  </span>
+    *  (arXiv preprint 2023) [💬Fashion Design] **DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**, Shidong Cao et al. [[Paper](https://arxiv.org/abs/2302.06826)]  [[Code](https://github.com/Rem105-210/DiffFashion)] 
 
+
+* <span id="head-2022"> **2022**  </span>
     *  (Knowledge-Based Systems) [💬Makeup Transfer] **TSEV-GAN: Generative Adversarial Networks with Target-aware Style Encoding and Verification for facial makeup transfer**, Zhen Xu et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705122010516)]
     *  (ECCV 2022) [💬Hairstyle Transfer] **Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment**, Taewoo Kim et al. [[Paper](https://arxiv.org/abs/2208.07765)]  [[Code](https://github.com/Taeu/Style-Your-Hair)] 
     *  (ECCV 2022) [💬Makeup Transfer] **EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**, Chenyu Yang et al. [[Paper](https://arxiv.org/abs/2207.09840)]  [[Code](https://github.com/chenyu-yang-2000/elegant)] 
