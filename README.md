@@ -34,6 +34,7 @@ A collection of resources on AI in the beauty and cosmetics industry.
 * <span id="head-Survey"> **Survey**  </span>
 
 * <span id="head-2023"> **2023**  </span>
+    *  (ACMMM 2023) [💬Fashion Synthesis] **SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**, Zhengwentai Sun et al. [[Paper](https://arxiv.org/abs/2308.07605)] 
     *  (arXiv preprint 2023) [💬Fashion Design] **DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**, Shidong Cao et al. [[Paper](https://arxiv.org/abs/2302.06826)]  [[Code](https://github.com/Rem105-210/DiffFashion)] 
 
 
